@@ -8,3 +8,4 @@ dist/
 venv/
 .env
 .DS_Store
+.cursor/rules/project-plan.mdc
